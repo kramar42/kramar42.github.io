@@ -1,0 +1,3 @@
+[submodule ".themes/mugwump-mussels"]
+	path = .themes/mugwump-mussels
+	url = git://github.com/octothemes/mugwump-mussels.git

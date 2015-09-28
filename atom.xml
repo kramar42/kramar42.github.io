@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[comments & thinkings]]></title>
+  <link href="http://kramar42.github.io/atom.xml" rel="self"/>
+  <link href="http://kramar42.github.io/"/>
+  <updated>2015-09-29T00:00:55+03:00</updated>
+  <id>http://kramar42.github.io/</id>
+  <author>
+    <name><![CDATA[Alexey Kramarenko]]></name>
+    <email><![CDATA[kramar42@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Initial Post]]></title>
+    <link href="http://kramar42.github.io/blog/2015/09/28/initial-post/"/>
+    <updated>2015-09-28T23:22:55+03:00</updated>
+    <id>http://kramar42.github.io/blog/2015/09/28/initial-post</id>
+    <content type="html"><![CDATA[<p>Something to say</p>
+
+<!-- more -->
+
+
+<p>to be seed.</p>
+
+<h1>Something in the water</h1>
+]]></content>
+  </entry>
+  
+</feed>
